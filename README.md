@@ -1,5 +1,7 @@
 # PLD_SMART - Ilolio Music Lab
 
+![4](https://user-images.githubusercontent.com/72705218/129964785-06f454cd-a728-47f5-bc64-bba6b2c28b05.png)
+
 ## Introduction
 - Introduction video https://www.youtube.com/watch?v=gWlPDviwtp0   
 - Examples of creations using Ilolio can be found on
