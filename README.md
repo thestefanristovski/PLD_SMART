@@ -1,6 +1,6 @@
 # PLD_SMART - Ilolio Music Lab
 
-##Intro Video
+## Introduction
 https://www.youtube.com/watch?v=gWlPDviwtp0
 examples of creations using Ilolio can be found on
 https://www.instagram.com/iloliomusic/
